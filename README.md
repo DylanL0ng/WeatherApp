@@ -12,4 +12,4 @@ A simple weather app using the AccuWeather Api
 
 ## Try me out!
 
-* [Demo]
+* [Demo](https://dylanl0ng.github.io/WeatherApp/)
